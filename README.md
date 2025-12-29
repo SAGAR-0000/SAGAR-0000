@@ -63,7 +63,6 @@ I am a third-year Computer Science undergraduate and an **Oracle Certified Profe
 
 ###  **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAGAR-0000&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAGAR-0000&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAGAR-0000&show_icons=true&theme=radical&hide_border=true)
+![Sagar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGAR-0000&layout=compact&theme=radical&hide_border=true)
