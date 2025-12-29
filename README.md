@@ -58,11 +58,3 @@ I am a third-year Computer Science undergraduate and an **Oracle Certified Profe
 * **Oracle Certified Generative AI Professional (2025)** - *Oracle University*
 * **Oracle Cloud Infrastructure Data Science Professional (2025)** - *Oracle University*
 * **15x Google Cloud Skill Badges** - *Google Cloud*
-
----
-
-###  **GitHub Stats**
-
-
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAGAR-0000&show_icons=true&theme=radical&hide_border=true)
-![Sagar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGAR-0000&layout=compact&theme=radical&hide_border=true)
