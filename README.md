@@ -37,6 +37,12 @@ I am a third-year Computer Science undergraduate and an **Oracle Certified Profe
 
 ---
 
+###  **LeetCode**
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=sagar-sahu&theme=dark)
+
+---
+
 ###  **Featured Projects**
 
 #### 1.  **[Mechanic Mitra: Multi-Agent Diagnostic System](https://github.com/SAGAR-0000/Mechanic-Mitra)**
