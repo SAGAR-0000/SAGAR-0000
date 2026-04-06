@@ -39,7 +39,7 @@ I am a third-year Computer Science undergraduate and an **Oracle Certified Profe
 
 ###  **LeetCode**
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=sagar-sahu&theme=dark)
+[![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/sagar-sahu?theme=dark)](https://leetcode.com/sagar-sahu)
 
 ---
 
