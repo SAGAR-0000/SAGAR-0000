@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Sagar%20Sahu&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20GenAI%20Systems%20Builder&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=OCI+Certified+Generative+AI+Professional;Building+Multi-Agent+Systems+%26+Applied+ML;Turning+API+rate+limits+into+design+constraints" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=OCI+Certified+Generative+AI+Professional;Building+Multi-Agent+Systems+%26+Applied+ML;Turning+API+rate+limits+into+design+constraints" alt="Typing SVG" />
 
 <p>
   <em>Building multi-agent GenAI systems and applied ML solutions — from clinical signal analysis to production-deployed LLM apps.</em>
